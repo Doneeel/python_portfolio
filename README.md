@@ -5,6 +5,8 @@ Portfolio showing my python skills. There are a few python projects I made
 
 ## 1. Converter papers for post
 
+<img src="paper_converter/cover.jpg" alt="paper converter cover"/>
+
 This script can convert csv table to pdf document. Used for creating papers for sendings.
 It accepts columns named "Name", "Patronymic", "Address", "City", "Index".
 
