@@ -1,4 +1,7 @@
 <a href="https://www.codewars.com/users/Doneeel"><img src="https://www.codewars.com/users/Doneeel/badges/large" alt="codewars badge large" /></a>
+
+My website: <a href='doneeel.com'>doneeel.com</a>
+
 # Python portfolio
 
 Portfolio showing my python skills. There are a few python projects I made
