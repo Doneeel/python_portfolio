@@ -19,4 +19,4 @@ It accepts columns named "Name", "Patronymic", "Address", "City", "Index". Build
 4. City - name of the city
 5. Index - post index
 
-All files, inluding table example and pdf doc example, are in paper_converter folder.
+All files, including table example and pdf doc example, are in paper_converter folder.
