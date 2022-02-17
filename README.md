@@ -6,7 +6,7 @@ My website: <a href='https://doneeel.com'>doneeel.com</a>
 
 Portfolio showing my python skills. There are a few python projects I made
 
-## 1. Converter papers for post
+## 1. Converting papers for post
 
 <img src="paper_converter/cover.jpg" alt="paper converter cover"/>
 
